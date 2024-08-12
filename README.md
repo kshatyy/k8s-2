@@ -28,3 +28,5 @@
 # Задание 2. 
 
 <img src="img/2.png">
+
+<img src="img/2-1.png">
